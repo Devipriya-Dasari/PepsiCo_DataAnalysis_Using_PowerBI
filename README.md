@@ -5,6 +5,10 @@
 Developed an integrated suite of **Power BI dashboards** delivering insights across **Sales**, **Marketing**, **Supply Chain**, and **Sustainability** domains.  
 The project focuses on enabling **data-driven decisions**, improving **operational efficiency**, and supporting **ESG (Environmental, Social & Governance)** goals.  
 
+## 🔗 View Live Dashboard  
+[👉 Click here to view the live Power BI Dashboard](https://github.com/Devipriya-Dasari/PepsiCo_DataAnalysis_Using_PowerBI/blob/main/PepsiCo_PowerBi.pbix)
+
+
 ---
 
 ## 🚀 Key Highlights  
