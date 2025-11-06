@@ -39,23 +39,23 @@ The project focuses on enabling **data-driven decisions**, improving **operation
 
 ### 💰 Sales Dashboard  
 
-![Sales Dashboard](<img width="506" height="283" alt="sales" src="https://github.com/user-attachments/assets/5397221c-7c88-4f3f-8247-6f2ce93ddfd7" />
+![Sales Dashboard](https://github.com/Devipriya-Dasari/PepsiCo_DataAnalysis_Using_PowerBI/blob/main/sales.PNG
 )
 
 ### 📢 Marketing Dashboard  
 
-![Marketing Dashboard](<img width="507" height="283" alt="marketing" src="https://github.com/user-attachments/assets/eb4cd5a4-770d-456f-a26d-19dfd875a36e" />
+![Marketing Dashboard](https://github.com/Devipriya-Dasari/PepsiCo_DataAnalysis_Using_PowerBI/blob/main/marketing.PNG
 )
 
 ### 🚚 Supply Chain Dashboard  
 
-![Supply Chain Dashboard](<img width="508" height="283" alt="supplychain" src="https://github.com/user-attachments/assets/234e00f0-ab3b-4689-8e54-54b81824fc6c" />
+![Supply Chain Dashboard](
+https://github.com/Devipriya-Dasari/PepsiCo_DataAnalysis_Using_PowerBI/blob/main/supplychain.PNG
 )
 
 ### 🌱 Sustainability Dashboard  
 
-![Sustainability Dashboard](<img width="505" height="284" alt="sustainability" src="https://github.com/user-attachments/assets/809816c9-bae1-4842-95e5-13d1b864e341" />
-)
+![Sustainability Dashboard](https://github.com/Devipriya-Dasari/PepsiCo_DataAnalysis_Using_PowerBI/blob/main/sustainability.PNG)
 
 ---
 
