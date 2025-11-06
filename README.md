@@ -61,6 +61,5 @@ The project focuses on enabling **data-driven decisions**, improving **operation
 
 ## 👩‍💻 Author  
 **Devi Priya Dasari**  
-📧 your.email@example.com  
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/yourusername)
+
 
