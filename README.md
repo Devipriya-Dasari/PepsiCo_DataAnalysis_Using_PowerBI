@@ -34,7 +34,7 @@ The project focuses on enabling **data-driven decisions**, improving **operation
 ## 📸 Dashboard Preview  
 ### 🏠 Home Dashboard  
 
-![Home Dashboard](<img width="505" height="279" alt="Capture" src="https://github.com/user-attachments/assets/77bacdbd-de3e-401f-aad0-bd36a95d9102" />
+![Home Dashboard](https://github.com/Devipriya-Dasari/PepsiCo_DataAnalysis_Using_PowerBI/blob/main/Home.PNG
 )
 
 ### 💰 Sales Dashboard  
